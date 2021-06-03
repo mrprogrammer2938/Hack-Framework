@@ -119,7 +119,7 @@ set [Otions]            |
                  host = None
                  packet = None
              else:
-                 print(color.green + "[" + color.red + "~" + color.green + "] " + choose[0] + " " + color.red + "Not Found!" + color.End)
+                 print(color.green + "[" + color.red + "~" + color.green + "] " + color.End + choose[0] + " " + color.red + "Not Found!" + color.End)
              try:
                 choose = input(opt)
              except:
