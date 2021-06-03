@@ -1,0 +1,8 @@
+Installing:
+           git clone https://github.com/msprogrammer2938/Hack-Framework
+           
+           cd Hack-Framework
+           
+           bash install.sh
+           
+           ./hack
