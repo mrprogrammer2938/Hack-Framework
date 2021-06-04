@@ -48,7 +48,7 @@ def info():
     time.sleep(2)
     try1()
 def try1():
-    tryagain = input("press Enter... ")
+    tryagain = input("\npress Enter... ")
     if tryagain == '':
       os.system("hack")
     else:
