@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+# This code write by Ms.nope
+clear
+echo "Updating..."
+sleep 2
+cd .. && sudo rm -r Hack-Framework && git clone https://github.com/msprogrammer2938/Hack-Framework && cd Hack-Framework && bash install.sh
+echo ""
+clear
+echo "Updating Complate!"
+echo ""
+echo "usage: ./hack"
+echo ""
+exit 1
