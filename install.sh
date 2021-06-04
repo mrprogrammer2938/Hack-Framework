@@ -13,6 +13,7 @@ clear
 echo "Finish! Installing..."
 sleep 2
 chmod +x hack
+cd Update && chmod +x hack
 echo ""
 echo "
 usage:
