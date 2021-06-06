@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-# This code writeby Ms.nope  
+# This code write by Mr.nope  
 # MIT License
 
-# Copyright (c) 2021 Ms.programmer
+# Copyright (c) 2021 Mr.programmer
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
