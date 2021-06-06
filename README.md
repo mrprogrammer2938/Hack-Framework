@@ -11,7 +11,7 @@ This code write [Mr.nope](https://github.com/mrprogrammer2938)
 
 **Installing**
 ```
-git clone https://github.com/msprogrammer2938/Hack-Framework.git
+git clone https://github.com/mrprogrammer2938/Hack-Framework.git
 
 cd Hack-Framework
 
