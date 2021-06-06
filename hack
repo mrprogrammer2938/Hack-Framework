@@ -115,7 +115,17 @@ set [Otions]            |
                  os.system("ping -w " + packet + " " + host)
              elif choose[0] == 'exploit':
                  os.system("ping -w " + packet + " " + host)
-             elif choose[0] == 'reset':
+             elif choose[0] == 'host':
+                 print("""
+--------------------------------
+""" + host + """
+--------------------------------""")
+             elif choose[0] == 'packet':
+                 print("""
+--------------------------------
+""" + packet + """
+--------------------------------""")
+elif choose[0] == 'reset':
                  host = None
                  packet = None
              else:
