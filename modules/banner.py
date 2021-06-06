@@ -41,15 +41,8 @@ def ext():
     sys.exit()
 def info():
     print(color.org)
-    os.system("figlet Ms.nope")
+    os.system("figlet Mr.nope")
     print(color.End)
-    print(color.green + "(This code write by " + color.blue + "Ms.nope" + color.green + ")" + color.End)
-    print(color.red + "Dont Forget to check my github: " + color.darkblue + "https://github.com/msprogrammer2938" + color.End)
+    print(color.green + "(This code write by " + color.blue + "Mr.nope" + color.green + ")" + color.End)
+    print(color.red + "Dont Forget to check my github: " + color.darkblue + "https://github.com/mrprogrammer2938" + color.End)
     time.sleep(2)
-    try1()
-def try1():
-    tryagain = input("\npress Enter... ")
-    if tryagain == '':
-      os.system("hack")
-    else:
-        os.system("hack")
