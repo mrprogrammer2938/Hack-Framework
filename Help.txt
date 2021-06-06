@@ -1,5 +1,5 @@
 Installing:
-           git clone https://github.com/msprogrammer2938/Hack-Framework
+           git clone https://github.com/mrprogrammer2938/Hack-Framework
            
            cd Hack-Framework
            
