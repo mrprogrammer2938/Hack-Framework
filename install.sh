@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# This code write by Ms.nope
+# This code write by Mr.nope
 prinf '\033]2;Installing\a'
 clear
 echo "Installing..."
