@@ -1,9 +1,9 @@
 #!/usr/bin/bash
-# This code write by Ms.nope
+# This code write by Mr.nope
 clear
 echo "Updating..."
 sleep 2
-cd .. && sudo rm -r Hack-Framework && git clone https://github.com/msprogrammer2938/Hack-Framework && cd Hack-Framework && bash install.sh
+cd .. && cd .. && sudo rm -r Hack-Framework && git clone https://github.com/mrprogrammer2938/Hack-Framework && cd Hack-Framework && bash install.sh
 echo ""
 clear
 echo "Updating Complate!"
