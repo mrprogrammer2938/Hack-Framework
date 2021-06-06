@@ -125,7 +125,7 @@ set [Otions]            |
 --------------------------------
 """ + packet + """
 --------------------------------""")
-elif choose[0] == 'reset':
+             elif choose[0] == 'reset':
                  host = None
                  packet = None
              else:
