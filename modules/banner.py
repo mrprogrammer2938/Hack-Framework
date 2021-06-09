@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# This code write by Ms.nope
+# This code write by Mr.nope
 import os
 import time
 import sys
