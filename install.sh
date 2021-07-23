@@ -1,5 +1,6 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # This code write by Mr.nope
+# Hack-Framework v1.4.1
 prinf '\033]2;Installing\a'
 clear
 echo "Installing..."
