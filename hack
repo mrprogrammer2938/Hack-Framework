@@ -243,7 +243,7 @@ set [Otions]            |
                                    1-1000
                                    1-10000
                                    """)
-                          print("port ==> " + str(port))
+                          print(" ")
                       else:
                            print("options is Not Found!")
              elif choose[0] == 'host':
@@ -255,6 +255,7 @@ set [Otions]            |
                  print("\n-----[Ping Test]-----\n")
                  time.sleep(1)
                  run_ping = getoutput(f"ping -w {packet} {host}")
+                 print(run_ping)
                  print("\n")
              elif choose[0] == 'developer':
                  print(Fore.BLUE + "\n[" + Fore.YELLOW + "~" + Fore.BLUE + "] " + Fore.GREEN + "Open " + Fore.RED + "Mr.nope" + Fore.GREEN + " Github..." + color.End)
